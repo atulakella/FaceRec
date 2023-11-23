@@ -1,2 +1,36 @@
-# FaceRec
-Face Recognition using Dlib, Add the faces you want the algorith to recognize in a floder "images" with the image name as the person's name as the image name and run any one the gievn python file with the necessary dependices installed.
+# Face Recognition Project
+
+This project uses the face_recognition library to perform real-time face recognition using a webcam.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/your-repository.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd your-repository
+    ```
+
+3. Install the dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+Run the face recognition script:
+
+```bash
+python face_recognition_script.py
