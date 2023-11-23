@@ -13,13 +13,13 @@ This project uses the face_recognition library to perform real-time face recogni
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/atulakella/FaceRec.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd FaceRec.git
     ```
 
 3. Install the dependencies:
